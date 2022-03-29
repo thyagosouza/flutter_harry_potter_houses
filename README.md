@@ -1,6 +1,6 @@
 <h1 style="color: #5e9ca0;">FLUTTER <span style="color: #2b2301;">HARRY POTTER HOUSES</span></h1>
 <h2 style="color: #2e6c80;">About the project:</h2>
-<p>This project was inspired by the <a href="https://www.youtube.com/watch?v=SWOaUNA_9Eg">challenge</a> created by the Yutube channel '<a href="https://www.youtube.com/channel/UCN0xtkhf8j2R6n1xKYCiJBA/videos">Polimorfismo</a>'. Some changes were made to the folder architecture and design. The main structure of the project was maintained.</p>
+<p>This project was inspired by the <a href="https://www.youtube.com/watch?v=SWOaUNA_9Eg">challenge</a> created by the Youtube channel '<a href="https://www.youtube.com/channel/UCN0xtkhf8j2R6n1xKYCiJBA/videos">Polimorfismo</a>'. Some changes were made to the folder architecture and design. The main structure of the project was maintained.</p>
 <table>
 <tbody>
 <tr style="height: 18px;">
